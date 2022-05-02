@@ -1,0 +1,5 @@
+[
+  { "id": 1, "race": "human", "name": "Carl", "age": 35 },
+  { "id": 2, "race": "mage", "name": "Lord Peew", "age": 100 },
+  { "id": 3, "race": "orc", "name": "Storn", "age": 57 }
+]
